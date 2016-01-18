@@ -1,5 +1,7 @@
 # CATHelpers
 
+ref. https://twiki.cern.ch/twiki/bin/view/CMS/BTagShapeCalibration#Using_histogram_files
+
 \#include "CATHelpers/CSVHelper/interface/CSVHelper.h"
 
 :
